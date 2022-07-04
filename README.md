@@ -1,8 +1,7 @@
 ## GraReader
 GraReader は macOS 上で iPhone の画面をキャプチャすることにより、 Gravity の音声ルームに投稿されたコメントを読み上げるツールです。
 
-![demo.mp4](
-https://user-images.githubusercontent.com/108191157/177111321-115aa721-355f-4909-960a-86caf89e0322.MP4)
+https://user-images.githubusercontent.com/108191157/177111321-115aa721-355f-4909-960a-86caf89e0322.MP4
 
 ## 使い方
 1. macにiPhoneを有線接続し、QuickTimePlayerで音声ルームを開いた状態のiPhoneの画面をキャプチャしてください
